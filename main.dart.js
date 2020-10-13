@@ -47785,7 +47785,7 @@ B.jr.prototype={
 J:function(a,b){var s=this,r=null,q=T.ir(M.dq(r,r,r,r,new S.dW(r,new X.wG(new L.l8("assets/others/profile_picture.jpeg",r,r),C.iT),r,K.a0m(new P.bj(100,100)),r,r,C.a4),s.d,r,r,s.e),r,r),p=T.cV(r,20,r),o=L.hP("Ol\xe1! Me Chamo Beatriz Severo, tenho 22 anos, vivo em Porto Alegre e sou estudante de Design de Produto da Universidade Federal do Rio Grande do Sul (UFRGS). Atualmente fa\xe7o divulga\xe7\xe3o de meus trabalhos nas redes sociais e estou em constante busca de aprendizados externos al\xe9m do que a universidade nos oferece, aprendendo por exemplo Isometric Illustration, Digital Comic e Anima\xe7\xe3o.",r,A.cZ(r,r,r,r,r,r,r,r,r,r,r,s.f,r,r,r,r,!0,r,r,r,r,r,r),C.l1),n=T.cV(r,20,r),m=C.Y.h(0,200)
 return M.dq(r,T.wo(H.d([q,p,o,n,R.xO(!1,!0,M.dq(r,T.ir(L.hP("MEU CURR\xcdCULO",r,A.cZ(r,r,C.x,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r),r,r),m,r,r,40,r,r,200),r,!0,r,r,r,r,r,r,r,r,r,new B.GE(s),r)],t.t),C.iZ,C.hI,C.bV),r,r,r,r,r,s.c,r)}}
 B.GE.prototype={
-$0:function(){C.aR.Dt(window,"https://drive.google.com/file/d/1gwDHNV0xuIIQSG_Hs80dGpJGYQ8P-ym1/view?usp=sharing","PlaceholderName")},
+$0:function(){C.aR.Dt(window,"https://drive.google.com/file/d/1nnpJPPVSHYoTUDV-6wn2tar6EqZaOR7b/view","PlaceholderName")},
 $S:0}
 Z.jF.prototype={
 J:function(a,b){var s=this,r=null,q=C.Y.h(0,200),p=s.f,o=L.hP(s.c,r,A.cZ(r,r,r,r,r,r,r,r,r,r,r,p,r,C.dr,r,r,!0,r,r,r,r,r,r),C.iy),n=T.cV(r,r,10)
@@ -47853,7 +47853,7 @@ M.Vn.prototype={
 $0:function(){K.yv(this.a,"/contact",t._)},
 $S:0}
 A.jH.prototype={
-J:function(a,b){var s=null,r=P.a1p(14,new A.Ia(b),!0,t.Cw),q=G.a2p(r,!0,!0,!0)
+J:function(a,b){var s=null,r=P.a1p(18,new A.Ia(b),!0,t.Cw),q=G.a2p(r,!0,!0,!0)
 r=r.length
 return new B.xC(new B.Rl(this.c,5,5,1),q,s,C.l,!1,s,!0,C.oy,!1,s,r,C.ad,C.rv,s,C.ac,s)}}
 A.Ia.prototype={
