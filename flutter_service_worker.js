@@ -3,11 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c92c8f44f026df6cbef702c988f7c59d",
+  "assets/AssetManifest.json": "ea73dcfed1f6052042f88fc8736d5e04",
 "assets/assets/fonts/Quicksand-Regular.ttf": "216d43ee8707910af457af569eda1dec",
 "assets/assets/fonts/Rajdhani-Regular.ttf": "fb987593d286bb6bd93d3de8457c5eb4",
 "assets/assets/icons/behance.png": "9c7c88a7198abacc69bbc9f28b9e6e4d",
-"assets/assets/icons/icon.png": "f1c36ca0f82d47ed84f7478fbdf4c07d",
 "assets/assets/icons/instagram.png": "fa90e1e7734e5bef1193daca074ad67c",
 "assets/assets/icons/linkedin.png": "a073ecdfc08870a4b033b6869c7f48fa",
 "assets/assets/images/1.jpg": "e3fecc1c7f3d7f0179eb5baf3aeb4048",
@@ -16,6 +15,10 @@ const RESOURCES = {
 "assets/assets/images/12.jpg": "7d1fb86d31d05c275c6fb909f22b0206",
 "assets/assets/images/13.jpg": "39c350e2061319ed03e05c5289fbb754",
 "assets/assets/images/14.jpg": "355860854d6754f55bf18d33f5971f95",
+"assets/assets/images/15.jpg": "05caf68549d066524a34a4e2bd0ba346",
+"assets/assets/images/16.jpg": "35206a5bdf28d3fa9f8ba76d26ecc6b9",
+"assets/assets/images/17.jpg": "f1c2ea1ef22a0d335055e78f59b6a17d",
+"assets/assets/images/18.jpg": "23ba8308c587d23b672c8d65f9adf3e7",
 "assets/assets/images/2.jpg": "98a0818d4a731d779fc9de1e99278e8a",
 "assets/assets/images/3.jpg": "440c90b7d50bfddfed482bd12a5e98a2",
 "assets/assets/images/4.jpg": "8592d80a26ea00526e4e976cb777cebc",
@@ -33,9 +36,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0632ac224c5e017d817b705b6117bc09",
-"/": "0632ac224c5e017d817b705b6117bc09",
-"main.dart.js": "b224720904cb756be350430fbe12139d",
+"index.html": "b46a91d103f633c558e54c02efaa2a2d",
+"/": "b46a91d103f633c558e54c02efaa2a2d",
+"main.dart.js": "7c3a7dc5d3e900f483de3eb1ffcadb38",
 "manifest.json": "5bed810bb1992bef5a5818d92b667c3f"
 };
 
